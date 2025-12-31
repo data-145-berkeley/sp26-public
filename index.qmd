@@ -1,7 +1,9 @@
 ---
-title: "Data 145: Evidence and Uncertainty"
+title: "Data 145"
 subtitle: "Spring 2026 | UC Berkeley"
 ---
+
+![](images/evidence-and-uncertainty.png){fig-align="center" width="100%"}
 
 ## Welcome
 
