@@ -1,0 +1,65 @@
+---
+title: "Data 145: Introduction to Data Science"
+subtitle: "Spring 2026 | UC Berkeley"
+---
+
+## Welcome
+
+Welcome to Data 145! This course provides a rigorous introduction to the
+foundations of data science, with emphasis on statistical thinking, probability
+theory, and computational methods.
+
+## Course Information
+
+|                    |                                              |
+|:-------------------|:---------------------------------------------|
+| **Instructor**     | Professor TBD                                |
+| **Lectures**       | TuTh 11:00am - 12:30pm, Room TBD             |
+| **Discussion**     | Fridays (see schedule for section times)     |
+| **Office Hours**   | See [Resources](resources.qmd) for schedule  |
+
+## Quick Links
+
+- [Course Schedule](schedule.qmd) - Weekly topics, readings, and assignments
+- [Problem Sets](problemsets/) - Released weekly, due on Gradescope
+- [Course Policies](policies.qmd) - Grading, collaboration, and academic integrity
+- [Resources](resources.qmd) - Textbooks, computing setup, and getting help
+
+## What You'll Learn
+
+This course covers fundamental concepts in probability and statistics that form
+the foundation of modern data science:
+
+- **Probability**: Sample spaces, conditional probability, Bayes' theorem
+- **Random Variables**: Discrete and continuous distributions, expectation, variance
+- **Limit Theorems**: Law of large numbers, central limit theorem
+- **Statistical Inference**: Estimation, confidence intervals, hypothesis testing
+- **Linear Regression**: Simple and multiple regression, inference, diagnostics
+
+## Announcements
+
+### Week 1 (January 21)
+
+Welcome to Data 145! Here's what you need to know:
+
+- **First lecture**: Tuesday, January 21 at 11:00am
+- **Problem Set 1**: Released January 21, due January 30 on Gradescope
+- **Discussion sections**: Begin Friday, January 24
+- **Computing**: Please set up Python/Jupyter before the first lab (see [Resources](resources.qmd))
+
+---
+
+*Check this page regularly for important announcements. You can also subscribe
+to notifications on Ed Discussion.*
+
+---
+
+## Getting Started
+
+1. Review the [syllabus and policies](policies.qmd)
+2. Set up your computing environment (see [Resources](resources.qmd))
+3. Join the course on Gradescope (entry code will be posted on Ed)
+4. Introduce yourself on Ed Discussion!
+
+If you have questions, please post on Ed Discussion or attend office hours.
+We're excited to have you in the course!

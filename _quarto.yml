@@ -1,0 +1,80 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Data 145: Introduction to Data Science"
+  description: "Course materials for Data 145, Spring 2026"
+
+  # Navigation bar
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: schedule.qmd
+        text: Schedule
+      - href: policies.qmd
+        text: Policies
+      - href: resources.qmd
+        text: Resources
+      # Uncomment when notes are published:
+      # - href: notes/index.html
+      #   text: Course Notes
+
+    right:
+      - icon: github
+        href: https://github.com/berkeley-data145/sp26-public
+        aria-label: GitHub
+
+  # Page footer
+  page-footer:
+    left: "Data 145 - Spring 2026 - UC Berkeley"
+    right: "Built with [Quarto](https://quarto.org)"
+
+  # Search
+  search: true
+
+  # Sidebar (for materials pages)
+  sidebar:
+    - title: "Materials"
+      style: docked
+      contents:
+        - section: "Problem Sets"
+          href: problemsets/
+        - section: "Quizzes"
+          href: quizzes/
+        - section: "Exams"
+          href: exams/
+        - section: "Labs"
+          href: labs/
+        - section: "Demos"
+          href: demos/
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    fontsize: 1.1em
+    linestretch: 1.5
+
+    # Math rendering
+    html-math-method: mathjax
+
+# Custom macros for math notation
+include-in-header:
+  text: |
+    <script>
+    MathJax = {
+      tex: {
+        macros: {
+          E: "\\mathbb{E}",
+          Var: "\\mathrm{Var}",
+          Cov: "\\mathrm{Cov}",
+          Prob: "\\mathbb{P}",
+          Normal: "\\mathcal{N}",
+          R: "\\mathbb{R}"
+        }
+      }
+    };
+    </script>

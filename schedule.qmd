@@ -1,0 +1,78 @@
+---
+title: "Course Schedule"
+---
+
+This page contains the course schedule with links to all materials. Materials
+will be posted as the course progresses.
+
+::: {.callout-note}
+Problem sets are released here and submitted on **Gradescope**. Solutions are
+posted after the due date.
+:::
+
+## Weekly Schedule
+
+<!--
+INSTRUCTORS: Update this table from the private repo as materials are ready.
+Copy/paste the relevant rows and update the links to point to the actual files.
+-->
+
+| Week | Date | Topic | Materials | Assignments |
+|:----:|:-----|:------|:----------|:------------|
+| 1 | Tue 1/21 | Introduction to Data Science | [Slides](#) | |
+| | Thu 1/23 | Probability Fundamentals | [Slides](#) | [PS1](problemsets/) released |
+| 2 | Tue 1/28 | Conditional Probability | [Slides](#) | |
+| | Thu 1/30 | Bayes' Theorem | [Slides](#) | **PS1 due** |
+| 3 | Tue 2/4 | Discrete Random Variables | [Slides](#) | [PS2](problemsets/) released |
+| | Thu 2/6 | Common Discrete Distributions | [Slides](#) | |
+| 4 | Tue 2/11 | Continuous Random Variables | [Slides](#) | |
+| | Thu 2/13 | Normal Distribution | [Slides](#) | **PS2 due** |
+| 5 | Tue 2/18 | Expectation and Variance | [Slides](#) | [PS3](problemsets/) released |
+| | Thu 2/20 | Joint Distributions | [Slides](#) | |
+| 6 | Tue 2/25 | Covariance and Correlation | [Slides](#) | |
+| | Thu 2/27 | Law of Large Numbers | [Slides](#) | **PS3 due** |
+| 7 | Tue 3/4 | Central Limit Theorem | [Slides](#) | |
+| | Thu 3/6 | **Midterm Exam** (in class) | [Review](#) | |
+| 8 | Tue 3/11 | Point Estimation | [Slides](#) | [PS4](problemsets/) released |
+| | Thu 3/13 | Properties of Estimators | [Slides](#) | |
+| 9 | Tue 3/18 | Confidence Intervals | [Slides](#) | |
+| | Thu 3/20 | Hypothesis Testing I | [Slides](#) | **PS4 due** |
+| -- | 3/24-28 | **Spring Break** | | |
+| 10 | Tue 4/1 | Hypothesis Testing II | [Slides](#) | [PS5](problemsets/) released |
+| | Thu 4/3 | Simple Linear Regression | [Slides](#) | |
+| 11 | Tue 4/8 | Least Squares Estimation | [Slides](#) | |
+| | Thu 4/10 | Regression Inference | [Slides](#) | **PS5 due** |
+| 12 | Tue 4/15 | Multiple Regression | [Slides](#) | [PS6](problemsets/) released |
+| | Thu 4/17 | Model Selection | [Slides](#) | |
+| 13 | Tue 4/22 | Regression Diagnostics | [Slides](#) | |
+| | Thu 4/24 | Course Review | [Review](#) | **PS6 due** |
+| 14 | 4/28-5/2 | **RRR Week** | | |
+| 15 | TBD | **Final Exam** | [Practice](#) | |
+
+## Problem Sets
+
+| Assignment | Released | Due | Solutions |
+|:-----------|:---------|:----|:----------|
+| [Problem Set 1](problemsets/) | Jan 21 | Jan 30, 11:59pm | Posted after due date |
+| [Problem Set 2](problemsets/) | Feb 4 | Feb 13, 11:59pm | Posted after due date |
+| [Problem Set 3](problemsets/) | Feb 18 | Feb 27, 11:59pm | Posted after due date |
+| [Problem Set 4](problemsets/) | Mar 11 | Mar 20, 11:59pm | Posted after due date |
+| [Problem Set 5](problemsets/) | Apr 1 | Apr 10, 11:59pm | Posted after due date |
+| [Problem Set 6](problemsets/) | Apr 15 | Apr 24, 11:59pm | Posted after due date |
+
+## Exams
+
+| Exam | Date | Time | Location |
+|:-----|:-----|:-----|:---------|
+| Midterm | Thursday, March 6 | In class | Regular classroom |
+| Final | TBD | TBD | TBD |
+
+Practice exams and solutions will be posted before each exam.
+
+---
+
+::: {.callout-tip}
+## Staying on Track
+We recommend completing the readings and reviewing lecture slides before each
+class. Start problem sets early to have time to ask questions in office hours!
+:::

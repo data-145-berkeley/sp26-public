@@ -1,0 +1,146 @@
+---
+title: "Course Policies"
+---
+
+This page outlines the policies and expectations for Data 145. Please read this
+carefully and refer back as needed throughout the semester.
+
+## Grading
+
+Your grade will be determined by the following components:
+
+| Component | Weight | Notes |
+|:----------|-------:|:------|
+| Problem Sets | 40% | 6 problem sets, lowest score dropped |
+| Quizzes | 10% | Weekly in-class quizzes, lowest 2 dropped |
+| Midterm Exam | 20% | Thursday, March 6 (in class) |
+| Final Exam | 25% | Date TBD |
+| Participation | 5% | Discussion section attendance and engagement |
+
+### Letter Grades
+
+Final letter grades will be assigned based on overall performance. We do not
+use a fixed curve; if everyone demonstrates mastery of the material, everyone
+can earn high grades. Typical grade boundaries are approximately:
+
+- A/A-: 90-100%
+- B+/B/B-: 80-89%
+- C+/C/C-: 70-79%
+- D: 60-69%
+- F: Below 60%
+
+We reserve the right to adjust these boundaries based on overall class
+performance.
+
+## Problem Sets
+
+- **Release**: Problem sets are released on the [course website](schedule.qmd)
+  each week
+- **Submission**: Submit on **Gradescope** by the deadline (typically Thursday
+  at 11:59pm)
+- **Format**: Submit a single PDF. We recommend LaTeX, but neatly handwritten
+  and scanned solutions are acceptable
+- **Lowest score**: Your lowest problem set score will be dropped
+
+### Late Policy
+
+- **Slip days**: You have **3 slip days** for the semester, which can be used
+  on any problem set
+- **Usage**: Slip days are applied automatically; no need to notify us
+- **Maximum**: At most 2 slip days can be used on any single assignment
+- **After slip days**: Late submissions receive 0 credit unless you have
+  documentation for an extenuating circumstance
+
+## Collaboration Policy
+
+We encourage you to work together and learn from each other! However, there are
+important boundaries:
+
+### Permitted
+
+- Discussing concepts and approaches with classmates
+- Working through examples together
+- Explaining ideas to each other
+- Using course materials (lectures, notes, textbooks)
+- Getting help in office hours
+
+### Not Permitted
+
+- Copying solutions from classmates (even if you worked together)
+- Sharing written solutions before the deadline
+- Using solutions from previous semesters
+- Using AI tools (ChatGPT, GitHub Copilot, etc.) to generate solutions
+- Posting problems or solutions online
+
+### Write-Up Rule
+
+**You must write up your solutions independently.** Even if you discussed a
+problem with classmates, your final written solution must be your own work,
+written in your own words, without looking at anyone else's solution.
+
+**Citation**: If you received substantial help on a problem (from a classmate,
+TA, or other source), please note this in your submission.
+
+## Academic Integrity
+
+We take academic integrity seriously. Violations will be reported to the
+Center for Student Conduct and may result in:
+
+- Zero on the assignment
+- Failing grade in the course
+- Notation on your academic record
+
+If you're unsure whether something is allowed, please ask! We're happy to
+clarify.
+
+## Exams
+
+- **Closed book**: No notes, books, or electronic devices
+- **Calculator**: No calculators (problems will not require one)
+- **Conflicts**: If you have a conflict with an exam date, notify us within
+  the first two weeks of the semester
+- **Accommodations**: Students with DSP accommodations should provide their
+  letters as early as possible
+
+## Regrades
+
+- **Deadline**: Regrade requests must be submitted within **one week** of
+  receiving your score
+- **How**: Submit a regrade request on Gradescope with a clear explanation
+- **Note**: We may regrade the entire assignment, which could result in a
+  lower score
+
+## Attendance
+
+- **Lectures**: Not mandatory, but highly recommended. Lectures cover material
+  not always in the textbook
+- **Discussion sections**: Attendance is expected and counts toward participation
+- **Quizzes**: Given in class; you must be present to take them (we drop the
+  lowest 2)
+
+## Accessibility and Accommodations
+
+We are committed to making this course accessible to all students:
+
+- **DSP accommodations**: Please provide your accommodation letters as early as
+  possible so we can make appropriate arrangements
+- **Other needs**: If you have any concerns about accessibility, please talk to
+  us. We want to help you succeed
+- **Mental health**: Your wellbeing matters. If you're struggling, please reach
+  out. UC Berkeley has resources including the [Tang Center](https://uhs.berkeley.edu/mental-health)
+
+## Communication
+
+- **Ed Discussion**: Use for all course-related questions. We aim to respond
+  within 24 hours
+- **Email**: Use only for private matters (grades, personal circumstances)
+- **Office hours**: The best place to get help with problem sets and concepts
+
+---
+
+::: {.callout-important}
+## Questions?
+If anything in these policies is unclear, please ask on Ed Discussion or in
+office hours. Policies may be updated during the semester; any changes will be
+announced.
+:::

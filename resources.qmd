@@ -1,0 +1,125 @@
+---
+title: "Resources"
+---
+
+This page contains helpful resources for the course, including textbooks,
+computing setup, and where to get help.
+
+## Textbooks and Readings
+
+### Primary Textbook
+
+There is no required textbook. Lecture notes and slides will be the primary
+resource.
+
+### Recommended References
+
+- **Probability**: *Introduction to Probability* by Blitzstein and Hwang
+  ([free online](https://projects.iq.harvard.edu/stat110/home))
+- **Statistics**: *Statistics* by Freedman, Pisani, and Purves
+- **Data Science**: *Computational and Inferential Thinking* by Adhikari and
+  DeNero ([free online](https://inferentialthinking.com))
+
+### Additional Resources
+
+- [Stat 110 Lecture Videos](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) -
+  Excellent probability lectures by Joe Blitzstein
+- [3Blue1Brown: Probability](https://www.youtube.com/c/3blue1brown) -
+  Beautiful visual explanations
+
+## Computing
+
+This course uses Python for computational work. Here's how to get set up:
+
+### Option 1: DataHub (Recommended for Beginners)
+
+UC Berkeley provides [DataHub](https://datahub.berkeley.edu), a cloud-based
+Jupyter environment. No installation required!
+
+1. Go to [datahub.berkeley.edu](https://datahub.berkeley.edu)
+2. Log in with your CalNet ID
+3. You're ready to go!
+
+### Option 2: Local Installation
+
+If you prefer to work locally:
+
+1. **Install Anaconda**: Download from [anaconda.com](https://www.anaconda.com/products/distribution)
+2. **Launch Jupyter**: Open Anaconda Navigator and click "Launch" under Jupyter Notebook
+3. **Required packages**: Most are included with Anaconda. We'll use:
+   - `numpy` - numerical computing
+   - `pandas` - data manipulation
+   - `matplotlib` and `seaborn` - visualization
+   - `scipy` - statistical functions
+
+### Python Resources
+
+- [Python Tutorial](https://docs.python.org/3/tutorial/) - Official tutorial
+- [Data 8 Python Reference](https://www.inferentialthinking.com/chapters/03/programming-in-python.html) -
+  Gentle introduction
+- [NumPy for Beginners](https://numpy.org/doc/stable/user/absolute_beginners.html)
+
+## Getting Help
+
+### Office Hours
+
+Office hours are the best place to get help with problem sets and concepts.
+No appointment needed!
+
+| Who | When | Where |
+|:----|:-----|:------|
+| Professor TBD | TBD | TBD |
+| GSI 1 | TBD | TBD |
+| GSI 2 | TBD | TBD |
+
+*Office hours schedule will be updated after the first week of class.*
+
+### Ed Discussion
+
+Our course discussion forum is on [Ed Discussion](https://edstem.org). Use it
+to:
+
+- Ask questions about course material
+- Clarify problem set questions
+- Find study partners
+- Share helpful resources
+
+**Tips for getting good answers**:
+
+- Search before posting (your question may already be answered)
+- Use descriptive titles
+- For problem set questions, describe what you've tried
+- Use the appropriate category (Logistics, Problem Sets, Exams, etc.)
+
+### Tutoring and Study Groups
+
+- **SLC Drop-In Tutoring**: The [Student Learning Center](https://slc.berkeley.edu)
+  offers free drop-in tutoring for many courses
+- **Study Groups**: We encourage forming study groups! Use Ed to find classmates
+
+## Gradescope
+
+All assignments are submitted on [Gradescope](https://www.gradescope.com).
+
+- **Entry code**: Will be posted on Ed Discussion
+- **Submission format**: PDF (LaTeX preferred, or neatly scanned handwriting)
+- **Regrade requests**: Submit within one week of receiving scores
+
+## Wellness Resources
+
+Your wellbeing matters. If you're struggling, please reach out:
+
+- **Tang Center**: [uhs.berkeley.edu](https://uhs.berkeley.edu) - health and
+  counseling services
+- **Counseling**: 510-642-9494 for appointments
+- **Crisis support**: 988 (Suicide & Crisis Lifeline)
+- **Basic needs**: [basicneeds.berkeley.edu](https://basicneeds.berkeley.edu) -
+  food, housing, financial assistance
+
+---
+
+::: {.callout-tip}
+## Suggestion?
+Know of a helpful resource we should add? Post on Ed Discussion or let us know
+in office hours!
+:::
