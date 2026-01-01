@@ -30,7 +30,7 @@ and discussion sessions.
 ## Quick Links
 
 - [Course Schedule](schedule.qmd) - Weekly topics, readings, and assignments
-- [Problem Sets](problemsets/) - Released weekly, due on Gradescope
+- [Worksheets](worksheets/) - Weekly assignments (Jupyter notebooks), due on Gradescope
 - [Course Policies](policies.qmd) - Grading, collaboration, and academic integrity
 - [Resources](resources.qmd) - Textbooks, computing setup, and getting help
 - [Ed Discussion](https://edstem.org/us/courses/90354/discussion/) - Questions and announcements
@@ -61,8 +61,8 @@ This course covers statistical theory for measuring uncertainty in large dataset
 Welcome to Data 145! Here's what you need to know:
 
 - **First lecture**: Tuesday, January 20 at 9:30am in Birge 50
-- **Homework 1**: Due Monday, January 26 on Gradescope
-- **Discussion sections**: Begin Friday, January 23 (Worksheet 1)
+- **Worksheet 1**: Due Monday, January 26 on Gradescope
+- **Discussion sections**: Begin Friday, January 23
 - **Computing**: Please set up Python/Jupyter before the first lab (see [Resources](resources.qmd))
 
 ---

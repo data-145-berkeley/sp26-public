@@ -102,7 +102,7 @@ to:
 All assignments are submitted on [Gradescope](https://www.gradescope.com/courses/1206670).
 
 - **Entry code**: Will be posted on [Ed Discussion](https://edstem.org/us/courses/90354/discussion/)
-- **Submission format**: PDF (LaTeX preferred, or neatly scanned handwriting)
+- **Submission format**: Jupyter notebooks (.ipynb files)
 - **Regrade requests**: Submit within one week of receiving scores
 
 ## Wellness Resources

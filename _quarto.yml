@@ -47,14 +47,10 @@ website:
     - title: "Materials"
       style: docked
       contents:
-        - section: "Problem Sets"
-          href: problemsets/
-        - section: "Quizzes"
-          href: quizzes/
+        - section: "Worksheets"
+          href: worksheets/
         - section: "Exams"
           href: exams/
-        - section: "Labs"
-          href: labs/
         - section: "Demos"
           href: demos/
 

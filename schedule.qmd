@@ -12,80 +12,77 @@ progresses. Check [Ed Discussion](https://edstem.org/us/courses/90354/discussion
 :::
 
 ::: {.callout-note}
-Problem sets are released here and submitted on [Gradescope](https://www.gradescope.com/courses/1206670). Solutions are
-posted on [bCourses](https://bcourses.berkeley.edu/courses/1551142) after the due date. Worksheets are completed in Friday discussion sections.
+Weekly worksheets are Jupyter notebooks released on Tuesdays and due the following Monday.
+Work on them in Friday discussion sections and complete them at home.
+Submit on [Gradescope](https://www.gradescope.com/courses/1206670). Solutions are
+posted on [bCourses](https://bcourses.berkeley.edu/courses/1551142) after the due date.
 :::
 
 ## Weekly Schedule
 
-<!--
-INSTRUCTORS: Update this table from the private repo as materials are ready.
-Copy/paste the relevant rows and update the links to point to the actual files.
--->
-
 | Week | Date | Lec | Topic | Section | Assignments |
 |:----:|:-----|:---:|:------|:--------|:------------|
-| 1 | Tue 1/20 | 1 | Course intro; convergence and delta method via MLE | | [**HW1**](problemsets/ps01/ps01.pdf) due 1/26 |
+| 1 | Tue 1/20 | 1 | Course intro; convergence and delta method via MLE | | **WS1 due 1/26** |
 | | Thu 1/22 | 2 | Modes of convergence, continuous mapping, Slutsky | | |
-| | Fri 1/23 | | | Worksheet 1 | |
-| 2 | Tue 1/27 | 3 | MLE 1: Score, Fisher information, consistency | | **HW2 due 2/2** |
+| | Fri 1/23 | | | Section 1 | |
+| 2 | Tue 1/27 | 3 | MLE 1: Score, Fisher information, consistency | | **WS2 due 2/2** |
 | | Thu 1/29 | 4 | MLE 2: Asymptotic normality, confidence intervals | | |
-| | Fri 1/30 | | | Worksheet 2 | |
-| 3 | Tue 2/3 | 5 | MLE 3: Efficiency, Cramér-Rao | | **HW3 due 2/9** |
+| | Fri 1/30 | | | Section 2 | |
+| 3 | Tue 2/3 | 5 | MLE 3: Efficiency, Cramér-Rao | | **WS3 due 2/9** |
 | | Thu 2/5 | 6 | Bayes 1: Loss, risk, MSE, bias-variance decomposition | | |
-| | Fri 2/6 | | | Worksheet 3 | |
-| 4 | Tue 2/10 | 7 | Bayes 2: Prior and posterior, exponential families | | **HW4 due 2/17** |
+| | Fri 2/6 | | | Section 3 | |
+| 4 | Tue 2/10 | 7 | Bayes 2: Prior and posterior, exponential families | | **WS4 due 2/17** |
 | | Thu 2/12 | 8 | Bayes 3: Epistemic uncertainty, Jeffreys priors | | |
-| | Fri 2/13 | | | Worksheet 4 | |
-| 5 | Tue 2/17 | 9 | Model misspecification, K-L divergence | | **HW5 due 2/23** |
+| | Fri 2/13 | | | Section 4 | |
+| 5 | Tue 2/17 | 9 | Model misspecification, K-L divergence | | **WS5 due 2/23** |
 | | Thu 2/19 | 10 | Empirical distribution, bootstrap confidence intervals | | |
-| | Fri 2/20 | | | Worksheet 5 | |
-| 6 | Tue 2/24 | 11 | Empirical CDF, KS statistic, hypothesis testing intro | | **HW6 due 3/2** |
+| | Fri 2/20 | | | Section 5 | |
+| 6 | Tue 2/24 | 11 | Empirical CDF, KS statistic, hypothesis testing intro | | **WS6 due 3/2** |
 | | Thu 2/26 | 12 | Hypothesis testing 1: Likelihood ratios, Neyman-Pearson | | |
-| | Fri 2/27 | | | Worksheet 6 | |
-| 7 | Tue 3/3 | 13 | Hypothesis testing 2: LRT examples, UMP tests | | **HW7 due 3/9** |
+| | Fri 2/27 | | | Section 6 | |
+| 7 | Tue 3/3 | 13 | Hypothesis testing 2: LRT examples, UMP tests | | **WS7 due 3/9** |
 | | Thu 3/5 | 14 | Hypothesis testing 3: p-values, test-CI duality | | |
-| | Fri 3/6 | | | Worksheet 7 | |
+| | Fri 3/6 | | | Section 7 | |
 | 8 | Tue 3/10 | 15 | Asymptotics: Score, Wald, generalized LRT | | |
 | | Thu 3/12 | 16 | Generalized LRT, chi-squared test for goodness of fit | | |
 | | Fri 3/13 | | | **Midterm Exam (evening)** | |
-| 9 | Tue 3/17 | 17 | Total variation distance, small-sample alternatives | | **HW8 due 3/30** |
+| 9 | Tue 3/17 | 17 | Total variation distance, small-sample alternatives | | **WS8 due 3/30** |
 | | Thu 3/19 | 18 | A/B testing: Comparing samples, permutations | | |
 | | Fri 3/20 | | | *No section* | |
 | -- | 3/23-27 | | **Spring Break** | | |
-| 10 | Tue 3/31 | 19 | Multivariate Gaussian 1: Z, chi-squared, t, F distributions | | **HW9 due 4/6** |
+| 10 | Tue 3/31 | 19 | Multivariate Gaussian 1: Z, chi-squared, t, F distributions | | **WS9 due 4/6** |
 | | Thu 4/2 | 20 | Multivariate Gaussian 2: Multiple regression inference | | |
-| | Fri 4/3 | | | Worksheet 8 | |
-| 11 | Tue 4/7 | 21 | Finite sample concentration, sub-Gaussian variables | | **HW10 due 4/13** |
+| | Fri 4/3 | | | Section 8 | |
+| 11 | Tue 4/7 | 21 | Finite sample concentration, sub-Gaussian variables | | **WS10 due 4/13** |
 | | Thu 4/9 | 22 | Applications | | |
-| | Fri 4/10 | | | Worksheet 9 | |
-| 12 | Tue 4/14 | 23 | Multiple testing 1: FWER, Bonferroni | | **HW11 due 4/20** |
+| | Fri 4/10 | | | Section 9 | |
+| 12 | Tue 4/14 | 23 | Multiple testing 1: FWER, Bonferroni | | **WS11 due 4/20** |
 | | Thu 4/16 | 24 | Multiple testing 2: FDR, Benjamini-Hochberg | | |
-| | Fri 4/17 | | | Worksheet 10 | |
-| 13 | Tue 4/21 | 25 | Empirical Bayes, local FDR, Gibbs sampler | | **HW12 due 4/27** |
+| | Fri 4/17 | | | Section 10 | |
+| 13 | Tue 4/21 | 25 | Empirical Bayes, local FDR, Gibbs sampler | | **WS12 due 4/27** |
 | | Thu 4/23 | 26 | Causal inference 1 | | |
-| | Fri 4/24 | | | Worksheet 11 | |
+| | Fri 4/24 | | | Section 11 | |
 | 14 | Tue 4/28 | 27 | Causal inference 2 | | |
 | | Thu 4/30 | 28 | Course summary | | |
 | RRR | 5/4-8 | | **RRR Week** | Review sessions | |
 | Finals | Wed 5/13 | | **Final Exam** | 11:30am - 2:30pm | |
 
-## Problem Sets
+## Worksheets
 
-| Assignment | Due Date | Materials |
-|:-----------|:---------|:----------|
-| [Homework 1](problemsets/ps01/ps01.pdf) | Mon 1/26 | [pdf](problemsets/ps01/ps01.pdf), [tex](problemsets/ps01/ps01.tex) |
-| Homework 2 | Mon 2/2 | |
-| Homework 3 | Mon 2/9 | |
-| Homework 4 | Tue 2/17 | |
-| Homework 5 | Mon 2/23 | |
-| Homework 6 | Mon 3/2 | |
-| Homework 7 | Mon 3/9 | |
-| Homework 8 | Mon 3/30 | |
-| Homework 9 | Mon 4/6 | |
-| Homework 10 | Mon 4/13 | |
-| Homework 11 | Mon 4/20 | |
-| Homework 12 | Mon 4/27 | |
+| Worksheet | Due Date | Materials |
+|:----------|:---------|:----------|
+| Worksheet 1 | Mon 1/26 | |
+| Worksheet 2 | Mon 2/2 | |
+| Worksheet 3 | Mon 2/9 | |
+| Worksheet 4 | Tue 2/17 | |
+| Worksheet 5 | Mon 2/23 | |
+| Worksheet 6 | Mon 3/2 | |
+| Worksheet 7 | Mon 3/9 | |
+| Worksheet 8 | Mon 3/30 | |
+| Worksheet 9 | Mon 4/6 | |
+| Worksheet 10 | Mon 4/13 | |
+| Worksheet 11 | Mon 4/20 | |
+| Worksheet 12 | Mon 4/27 | |
 
 Solutions are posted on [bCourses](https://bcourses.berkeley.edu/courses/1551142) after the due date.
 
@@ -102,6 +99,6 @@ Practice exams and solutions will be posted before each exam.
 
 ::: {.callout-tip}
 ## Staying on Track
-We recommend reviewing lecture material before each class. Start problem sets
+We recommend reviewing lecture material before each class. Start worksheets
 early to have time to ask questions in office hours and discussion sections!
 :::
